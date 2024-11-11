@@ -1,1 +1,0 @@
-# Interpolieren-in-C
